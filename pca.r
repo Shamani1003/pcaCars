@@ -6,4 +6,4 @@ names(pcaCars)
 
 summary(pcaCars)
 
-plot(pcaCars,type="l")
+plot(pcaCars)
